@@ -30,7 +30,7 @@
             android:layout_width="0dp"
             android:layout_height="731dp"
             android:scaleType="centerCrop"
-            android:src="@drawable/ic_football_goal"
+            app:srcCompat="@drawable/ic_football_goal"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toTopOf="parent" />
 
